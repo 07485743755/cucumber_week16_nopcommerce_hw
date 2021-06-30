@@ -1,0 +1,511 @@
+2021-06-27 15:06:308 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 15:06:921 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 15:06:945 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 15:06:193 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:209 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:225 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:233 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:249 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:257 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:265 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d26bab1b985b87dce6f74bc441205302)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:378 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 15:06:491 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 15:06:433 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 15:06:449 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 15:06:481 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 15:06:697 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:713 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:721 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:737 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:745 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:761 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:769 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (0dd952e65217aabb5ce5d6bd2b86b8ab)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:852 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 15:06:855 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 15:06:788 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 15:06:804 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 15:06:820 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 15:06:844 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 15:06:18 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:28 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:39 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:50 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:59 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:70 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:83 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a5587de14796e87e551a12a9ebd487f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:125 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 15:06:248 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 15:06:235 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 15:06:251 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 15:06:259 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 15:06:275 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 15:06:291 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 15:06:456 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:472 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:480 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:496 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:504 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:512 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:528 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e33200ddc4ef78e3dae913a0dfdd3b8a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:573 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 15:06:665 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 15:06:972 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 15:06:994 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 15:06:04 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 15:06:16 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 15:06:31 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 15:06:51 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 15:06:280 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:288 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:296 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:312 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:320 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:328 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:344 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (77c8d13a65ae19322ab544b6dd30009d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:432 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 15:06:516 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 15:06:696 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 15:06:720 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 15:06:736 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 15:06:752 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 15:06:768 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 15:06:777 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 15:06:793 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 15:06:984 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:00 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:08 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:16 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:24 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:40 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:48 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (69f3f35eb0b4b1e87432952264bff985)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:102 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 15:06:222 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 15:06:296 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 15:06:308 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 15:06:323 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 15:06:338 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 15:06:352 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 15:06:362 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 15:06:373 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 15:06:385 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 15:06:569 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:577 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:585 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:593 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:609 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:617 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:625 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (749e7900d06cc393914b4942280a29b8)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 15:06:708 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 16:06:489 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:447 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 16:06:455 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:604 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:616 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:626 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:636 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:648 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:659 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:669 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f6e63662330aa4e4f0adf98a0f7c8345)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:767 INFO  HomePage :58 - Getting welcome TextProxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Welcome to our store']'
+2021-06-27 16:06:463 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:275 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 16:06:292 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:447 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:458 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:469 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:480 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:490 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:500 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:511 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with < topMenuTabPage>
+2021-06-27 16:06:544 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (99cf6fe6dd64e300473626e9142b7601)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:754 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:828 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (25cda4caeba3e2cf02e0b5aaf19781f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 16:06:845 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (25cda4caeba3e2cf02e0b5aaf19781f9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:965 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (25cda4caeba3e2cf02e0b5aaf19781f9)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:773 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:750 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (1ccf67066ab305814d8bbbdd3d884ed7)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 16:06:768 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (1ccf67066ab305814d8bbbdd3d884ed7)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:908 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (1ccf67066ab305814d8bbbdd3d884ed7)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:611 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:485 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (192aa362f2505683ac8b27207d693f0a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 16:06:490 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (192aa362f2505683ac8b27207d693f0a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:26 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (192aa362f2505683ac8b27207d693f0a)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:992 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:838 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d70bae340faf8f95bf5dcbf29562734c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 16:06:856 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (d70bae340faf8f95bf5dcbf29562734c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:194 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (d70bae340faf8f95bf5dcbf29562734c)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:889 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:724 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d1b3152ba721c1911c14c50688c84901)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 16:06:739 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d1b3152ba721c1911c14c50688c84901)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 16:06:757 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (d1b3152ba721c1911c14c50688c84901)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:934 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (d1b3152ba721c1911c14c50688c84901)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:615 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:782 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4e18402fe0fe052eb15e373c2f228088)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 16:06:792 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4e18402fe0fe052eb15e373c2f228088)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 16:06:807 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4e18402fe0fe052eb15e373c2f228088)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 16:06:834 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (4e18402fe0fe052eb15e373c2f228088)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:396 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (4e18402fe0fe052eb15e373c2f228088)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:585 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:427 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (cfe4cea0c550efb4498d30a61cac905c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:437 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (cfe4cea0c550efb4498d30a61cac905c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:448 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (cfe4cea0c550efb4498d30a61cac905c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:449 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (cfe4cea0c550efb4498d30a61cac905c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:475 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (cfe4cea0c550efb4498d30a61cac905c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:671 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (cfe4cea0c550efb4498d30a61cac905c)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:400 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:286 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (8adaf93120f9be731983c60ee8add1da)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:303 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (8adaf93120f9be731983c60ee8add1da)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:318 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (8adaf93120f9be731983c60ee8add1da)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:333 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (8adaf93120f9be731983c60ee8add1da)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:343 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (8adaf93120f9be731983c60ee8add1da)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:362 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (8adaf93120f9be731983c60ee8add1da)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:503 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (8adaf93120f9be731983c60ee8add1da)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:183 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:106 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:119 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:134 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:144 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:157 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:170 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:188 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:357 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (3a60b066934ba453a7d019c152c75c82)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:119 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:905 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:922 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:938 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:952 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:961 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:975 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:989 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:06 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:192 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (d692e2753aacc0ce98a3efb6ccae43c6)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:915 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:911 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (8e2da2f104154b9cfcbdd937dabfcc49)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 16:06:928 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (8e2da2f104154b9cfcbdd937dabfcc49)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:36 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (8e2da2f104154b9cfcbdd937dabfcc49)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:712 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:576 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e0368955360a092a17187f0a6b167e23)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 16:06:590 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (e0368955360a092a17187f0a6b167e23)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 16:06:618 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (e0368955360a092a17187f0a6b167e23)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:750 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (e0368955360a092a17187f0a6b167e23)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:492 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:332 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (ddd476e5cefff4f8ec0a837ea8605f94)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 16:06:344 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (ddd476e5cefff4f8ec0a837ea8605f94)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 16:06:357 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (ddd476e5cefff4f8ec0a837ea8605f94)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 16:06:376 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (ddd476e5cefff4f8ec0a837ea8605f94)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:553 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (ddd476e5cefff4f8ec0a837ea8605f94)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:251 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:74 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d6ed14108eaf6d187d307c121b8107e0)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:90 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d6ed14108eaf6d187d307c121b8107e0)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:105 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d6ed14108eaf6d187d307c121b8107e0)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:121 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (d6ed14108eaf6d187d307c121b8107e0)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 16:06:141 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (d6ed14108eaf6d187d307c121b8107e0)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:279 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (d6ed14108eaf6d187d307c121b8107e0)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:959 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:987 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f0e96513401f22e9e2228dca1c1d6e8d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:03 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f0e96513401f22e9e2228dca1c1d6e8d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:13 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f0e96513401f22e9e2228dca1c1d6e8d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:28 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f0e96513401f22e9e2228dca1c1d6e8d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:43 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f0e96513401f22e9e2228dca1c1d6e8d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 16:06:60 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (f0e96513401f22e9e2228dca1c1d6e8d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:614 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (f0e96513401f22e9e2228dca1c1d6e8d)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:570 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:409 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:424 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:437 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:446 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:459 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:472 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 16:06:487 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:73 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (6b164bf70fb55a78a71ed0c5155667b3)] -> xpath: //div[@class='page-title']]
+2021-06-27 16:06:196 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 16:06:140 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:155 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:164 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:175 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:191 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:204 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:213 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 16:06:230 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 16:06:376 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (f9388c9ce424aef7af4defb6669e3de6)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:375 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:676 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (51060fb8762c06e6cc53a3fdb3b65aae)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 20:06:708 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (51060fb8762c06e6cc53a3fdb3b65aae)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:868 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (51060fb8762c06e6cc53a3fdb3b65aae)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-27 20:06:40 INFO  DesktopPage :31 - Select filter Z to A fromProxy element for: DefaultElementLocator 'By.id: products-orderby'
+2021-06-27 20:06:214 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:134 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (fd1529f7aafdc934f9388a835f2bb298)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 20:06:158 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (fd1529f7aafdc934f9388a835f2bb298)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:755 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (fd1529f7aafdc934f9388a835f2bb298)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:51 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:41 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (2b48413fdf1a46aebbafd85c24535824)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 20:06:57 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (2b48413fdf1a46aebbafd85c24535824)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 20:06:73 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (2b48413fdf1a46aebbafd85c24535824)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:201 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (2b48413fdf1a46aebbafd85c24535824)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:888 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:968 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (ef08d1a36145f4c648d43f91aec70f1c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 20:06:984 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (ef08d1a36145f4c648d43f91aec70f1c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 20:06:00 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (ef08d1a36145f4c648d43f91aec70f1c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 20:06:32 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (ef08d1a36145f4c648d43f91aec70f1c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:168 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (ef08d1a36145f4c648d43f91aec70f1c)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:869 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:875 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (caa90ce72d0f6896aff3af4114942a45)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:891 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (caa90ce72d0f6896aff3af4114942a45)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:907 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (caa90ce72d0f6896aff3af4114942a45)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:915 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (caa90ce72d0f6896aff3af4114942a45)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:939 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (caa90ce72d0f6896aff3af4114942a45)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:91 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (caa90ce72d0f6896aff3af4114942a45)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:789 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:688 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (b165dbfa1be09ad341c43a9ae5f8b3e9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:704 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (b165dbfa1be09ad341c43a9ae5f8b3e9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:720 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (b165dbfa1be09ad341c43a9ae5f8b3e9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:735 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (b165dbfa1be09ad341c43a9ae5f8b3e9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:751 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (b165dbfa1be09ad341c43a9ae5f8b3e9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:775 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (b165dbfa1be09ad341c43a9ae5f8b3e9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:887 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (b165dbfa1be09ad341c43a9ae5f8b3e9)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:554 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:410 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:418 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:434 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:450 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:466 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:474 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:498 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:634 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (9a860ebf8b2694b13e489e667471b9b6)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:328 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:226 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:242 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:250 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:266 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:282 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:298 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:306 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:322 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:426 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (4a4bac05ccc774edac176417e1ecbab5)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:184 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:12 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (82d8a785e97d6f2ce2e6d04f59a14e2b)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 20:06:28 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (82d8a785e97d6f2ce2e6d04f59a14e2b)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:117 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (82d8a785e97d6f2ce2e6d04f59a14e2b)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-27 20:06:435 INFO  DesktopPage :31 - Select filter Z to A from[[ChromeDriver: chrome on WINDOWS (82d8a785e97d6f2ce2e6d04f59a14e2b)] -> id: products-orderby]
+2021-06-27 20:06:778 INFO  DesktopPage :43 - Get product name list from [[[ChromeDriver: chrome on WINDOWS (82d8a785e97d6f2ce2e6d04f59a14e2b)] -> xpath: //div[@class='product-grid']//h2], [[ChromeDriver: chrome on WINDOWS (82d8a785e97d6f2ce2e6d04f59a14e2b)] -> xpath: //div[@class='product-grid']//h2], [[ChromeDriver: chrome on WINDOWS (82d8a785e97d6f2ce2e6d04f59a14e2b)] -> xpath: //div[@class='product-grid']//h2]]
+2021-06-27 20:06:652 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:482 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a486c4d1caadd4fe38e45fd92f60c99d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-27 20:06:506 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (a486c4d1caadd4fe38e45fd92f60c99d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:682 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (a486c4d1caadd4fe38e45fd92f60c99d)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:356 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:322 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (cf80918b51743f45ab5457459bd15d3d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 20:06:338 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (cf80918b51743f45ab5457459bd15d3d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Electronics
+2021-06-27 20:06:370 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (cf80918b51743f45ab5457459bd15d3d)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:466 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (cf80918b51743f45ab5457459bd15d3d)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:150 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:280 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a94224c2bc81849b1dc0beb6ab84fddb)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 20:06:296 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a94224c2bc81849b1dc0beb6ab84fddb)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 20:06:312 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (a94224c2bc81849b1dc0beb6ab84fddb)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Apparel
+2021-06-27 20:06:337 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (a94224c2bc81849b1dc0beb6ab84fddb)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:475 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (a94224c2bc81849b1dc0beb6ab84fddb)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:140 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:157 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (2c790b24e8c17a1a0daa93840a904ff9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:173 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (2c790b24e8c17a1a0daa93840a904ff9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:189 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (2c790b24e8c17a1a0daa93840a904ff9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:205 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (2c790b24e8c17a1a0daa93840a904ff9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Digital downloads
+2021-06-27 20:06:221 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (2c790b24e8c17a1a0daa93840a904ff9)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:341 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (2c790b24e8c17a1a0daa93840a904ff9)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:27 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:943 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (728c64b58629ddc85abd975472895f28)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:959 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (728c64b58629ddc85abd975472895f28)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:967 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (728c64b58629ddc85abd975472895f28)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:983 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (728c64b58629ddc85abd975472895f28)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:999 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (728c64b58629ddc85abd975472895f28)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Books
+2021-06-27 20:06:23 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (728c64b58629ddc85abd975472895f28)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:167 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (728c64b58629ddc85abd975472895f28)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:919 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:743 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:759 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:775 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:791 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:799 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:815 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Jewelry
+2021-06-27 20:06:831 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:15 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (5f3c8d8153881cf0931221ac8a0f55b3)] -> xpath: //div[@class='page-title']]
+2021-06-27 20:06:700 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-27 20:06:756 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:772 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:788 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:804 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:820 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:828 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:836 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Gift Cards
+2021-06-27 20:06:860 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-27 20:06:188 INFO  HomePage :52 - getting title text [[ChromeDriver: chrome on WINDOWS (bad242cbbcf7a12361a94dd847d44682)] -> xpath: //div[@class='page-title']]
+2021-06-28 10:06:263 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 10:06:415 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (baf52064316db09e6a129e58e29b60ae)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 10:06:431 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (baf52064316db09e6a129e58e29b60ae)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 10:06:560 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (baf52064316db09e6a129e58e29b60ae)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 10:06:719 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (baf52064316db09e6a129e58e29b60ae)] -> id: products-orderby]
+2021-06-28 10:06:881 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (baf52064316db09e6a129e58e29b60ae)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 10:06:111 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 10:06:321 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (de5683d80b1d01b5102166ea6028c126)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 10:06:341 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (de5683d80b1d01b5102166ea6028c126)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 10:06:511 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (de5683d80b1d01b5102166ea6028c126)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 10:06:721 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (de5683d80b1d01b5102166ea6028c126)] -> id: products-orderby]
+2021-06-28 10:06:19 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (de5683d80b1d01b5102166ea6028c126)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 11:06:939 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 11:06:851 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (786648809c59f409cb0704e592ee3f4a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 11:06:871 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (786648809c59f409cb0704e592ee3f4a)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 11:06:00 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (786648809c59f409cb0704e592ee3f4a)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 11:06:87 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (786648809c59f409cb0704e592ee3f4a)] -> id: products-orderby]
+2021-06-28 11:06:439 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (786648809c59f409cb0704e592ee3f4a)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 11:06:691 INFO  BuildYourOwnComputerPage :62 - Getting welcome text [[ChromeDriver: chrome on WINDOWS (786648809c59f409cb0704e592ee3f4a)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 11:06:401 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 11:06:258 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (b48244db63166bbea83576e3355a3a7c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 11:06:279 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (b48244db63166bbea83576e3355a3a7c)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 11:06:411 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (b48244db63166bbea83576e3355a3a7c)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 11:06:951 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (b48244db63166bbea83576e3355a3a7c)] -> id: products-orderby]
+2021-06-28 11:06:182 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (b48244db63166bbea83576e3355a3a7c)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 11:06:421 INFO  BuildYourOwnComputerPage :62 - Getting welcome text [[ChromeDriver: chrome on WINDOWS (b48244db63166bbea83576e3355a3a7c)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 11:06:242 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 11:06:188 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3338116ffd2e9b1f0bca04b68be01269)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 11:06:209 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (3338116ffd2e9b1f0bca04b68be01269)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 11:06:321 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (3338116ffd2e9b1f0bca04b68be01269)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 11:06:422 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (3338116ffd2e9b1f0bca04b68be01269)] -> id: products-orderby]
+2021-06-28 11:06:762 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (3338116ffd2e9b1f0bca04b68be01269)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 11:06:971 INFO  BuildYourOwnComputerPage :62 - Getting welcome text [[ChromeDriver: chrome on WINDOWS (3338116ffd2e9b1f0bca04b68be01269)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 11:06:52 INFO  BuildYourOwnComputerPage :68 - Select processor from drop down [[ChromeDriver: chrome on WINDOWS (3338116ffd2e9b1f0bca04b68be01269)] -> xpath: (//select[contains(@id,'product_attribute')])[1]]
+2021-06-28 11:06:547 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 11:06:641 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 11:06:662 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 11:06:849 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 11:06:941 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> id: products-orderby]
+2021-06-28 11:06:232 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 11:06:437 INFO  BuildYourOwnComputerPage :62 - Getting welcome text [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 11:06:524 INFO  BuildYourOwnComputerPage :68 - Select processor from drop down [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: (//select[contains(@id,'product_attribute')])[1]]
+2021-06-28 11:06:892 INFO  BuildYourOwnComputerPage :74 - Select ram from drop down: [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: (//select[contains(@id,'product_attribute')])[2]]
+2021-06-28 11:06:307 INFO  BuildYourOwnComputerPage :82 - Getting text320 GBFrom element 320 GB and compare with hdd400 GB [+$100.00]
+2021-06-28 11:06:392 INFO  BuildYourOwnComputerPage :82 - Getting text400 GB [+$100.00]From element 400 GB [+$100.00] and compare with hdd400 GB [+$100.00]
+2021-06-28 11:06:422 INFO  BuildYourOwnComputerPage :84 - Clicking on element [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: (//ul[@class='option-list'])[1]//label]
+2021-06-28 11:06:672 INFO  BuildYourOwnComputerPage :95 - Getting textVista Home [+$50.00]From element Vista Home [+$50.00] and compare with osVista Premium [+$60.00]
+2021-06-28 11:06:731 INFO  BuildYourOwnComputerPage :95 - Getting textVista Premium [+$60.00]From element Vista Premium [+$60.00] and compare with osVista Premium [+$60.00]
+2021-06-28 11:06:739 INFO  BuildYourOwnComputerPage :98 - Clicking on element [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: (//ul[@class='option-list'])[2]//label]
+2021-06-28 11:06:912 INFO  BuildYourOwnComputerPage :115 - Clicking on : [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: (//input[contains(@id,'product_attribute')])[7]]
+2021-06-28 11:06:162 INFO  BuildYourOwnComputerPage :120 - Getting price text from [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //span[contains(@id,'price-value')]]
+2021-06-28 11:06:272 INFO  BuildYourOwnComputerPage :126 - Clicking on add to cart button [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //button[contains(@id,'add-to-cart-button')]]
+2021-06-28 11:06:469 INFO  BuildYourOwnComputerPage :132 - Getting popup text from [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2021-06-28 11:06:592 INFO  BuildYourOwnComputerPage :139 - Accept pop up close button [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]
+2021-06-28 11:06:772 INFO  BuildYourOwnComputerPage :145 - Mouse hover to shopping cart link [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //span[contains(text(),'Shopping cart')]]
+2021-06-28 11:06:518 INFO  BuildYourOwnComputerPage :151 - Clicking on go to cart button [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //button[contains(text(),'Go to cart')]]
+2021-06-28 11:06:142 INFO  CartPage :34 - Getting welcome text from [[ChromeDriver: chrome on WINDOWS (664ae2161f86d61177d2dcc917852996)] -> xpath: //h1[contains(text(),'Shopping cart')]]
+2021-06-28 12:06:857 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 12:06:257 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 12:06:277 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 12:06:454 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 12:06:291 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: products-orderby]
+2021-06-28 12:06:485 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 12:06:876 INFO  BuildYourOwnComputerPage :62 - Getting welcome text [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 12:06:949 INFO  BuildYourOwnComputerPage :68 - Select processor from drop down [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: (//select[contains(@id,'product_attribute')])[1]]
+2021-06-28 12:06:111 INFO  BuildYourOwnComputerPage :74 - Select ram from drop down: [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: (//select[contains(@id,'product_attribute')])[2]]
+2021-06-28 12:06:292 INFO  BuildYourOwnComputerPage :82 - Getting text320 GBFrom element 320 GB and compare with hdd400 GB [+$100.00]
+2021-06-28 12:06:317 INFO  BuildYourOwnComputerPage :82 - Getting text400 GB [+$100.00]From element 400 GB [+$100.00] and compare with hdd400 GB [+$100.00]
+2021-06-28 12:06:324 INFO  BuildYourOwnComputerPage :84 - Clicking on element [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: (//ul[@class='option-list'])[1]//label]
+2021-06-28 12:06:428 INFO  BuildYourOwnComputerPage :95 - Getting textVista Home [+$50.00]From element Vista Home [+$50.00] and compare with osVista Premium [+$60.00]
+2021-06-28 12:06:452 INFO  BuildYourOwnComputerPage :95 - Getting textVista Premium [+$60.00]From element Vista Premium [+$60.00] and compare with osVista Premium [+$60.00]
+2021-06-28 12:06:459 INFO  BuildYourOwnComputerPage :98 - Clicking on element [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: (//ul[@class='option-list'])[2]//label]
+2021-06-28 12:06:579 INFO  BuildYourOwnComputerPage :115 - Clicking on : [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: (//input[contains(@id,'product_attribute')])[7]]
+2021-06-28 12:06:695 INFO  BuildYourOwnComputerPage :120 - Getting price text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //span[contains(@id,'price-value')]]
+2021-06-28 12:06:750 INFO  BuildYourOwnComputerPage :126 - Clicking on add to cart button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[contains(@id,'add-to-cart-button')]]
+2021-06-28 12:06:874 INFO  BuildYourOwnComputerPage :132 - Getting popup text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2021-06-28 12:06:920 INFO  BuildYourOwnComputerPage :139 - Accept pop up close button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]
+2021-06-28 12:06:02 INFO  BuildYourOwnComputerPage :145 - Mouse hover to shopping cart link [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //span[contains(text(),'Shopping cart')]]
+2021-06-28 12:06:703 INFO  BuildYourOwnComputerPage :151 - Clicking on go to cart button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[contains(text(),'Go to cart')]]
+2021-06-28 12:06:626 INFO  CartPage :34 - Getting welcome text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //h1[contains(text(),'Shopping cart')]]
+2021-06-28 12:06:683 INFO  CartPage :40 - Change Quantity 2 On element [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //input[contains(@id,'itemquantity')]]
+2021-06-28 12:06:838 INFO  CartPage :46 - Clicking on update shopping cart [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[contains(text(),'Update shopping cart')]]
+2021-06-28 12:06:425 INFO  CartPage :52 - Getting total price text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //td[@class='subtotal']/child::span]
+2021-06-28 12:06:469 INFO  CartPage :58 - Clicking on terms of service [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: termsofservice]
+2021-06-28 12:06:565 INFO  CartPage :64 - Clicking on check out button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: checkout]
+2021-06-28 12:06:333 INFO  LoginPage :21 - Getting welcome Text[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-06-28 12:06:379 INFO  LoginPage :27 - Clicking on checkOutAsGuest button[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[@class='button-1 checkout-as-guest-button']]
+2021-06-28 12:06:591 INFO  CheckOutPage :72 - Enter firstname Harry in first field[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_FirstName]
+2021-06-28 12:06:711 INFO  CheckOutPage :77 - Enter last name Potter in last name field[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_LastName]
+2021-06-28 12:06:820 INFO  CheckOutPage :84 - Send email id harryPotterrandom number913Domain@gmail.comIn emailid field [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_Email]
+2021-06-28 12:06:946 INFO  CheckOutPage :89 - Select visible text United Kingdom In country field [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_CountryId]
+2021-06-28 12:06:118 INFO  CheckOutPage :93 - Enter city name Leicester in city field[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_City]
+2021-06-28 12:06:229 INFO  CheckOutPage :98 - Enter address75,Corporation road in address field[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_Address1]
+2021-06-28 12:06:339 INFO  CheckOutPage :103 - Enter post codeLE45NJ in postal code field[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_ZipPostalCode]
+2021-06-28 12:06:447 INFO  CheckOutPage :108 - Enter phone number07896543215 in phone number field[[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: BillingNewAddress_PhoneNumber]
+2021-06-28 12:06:542 INFO  CheckOutPage :114 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[@onclick='Billing.save()']]
+2021-06-28 12:06:696 INFO  CheckOutPage :120 - Clicking on next day air delivery radio button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: (//input[contains(@id,'shippingoption')])[2]]
+2021-06-28 12:06:787 INFO  CheckOutPage :126 - Clicking on shipping continue button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[@onclick='ShippingMethod.save()']]
+2021-06-28 12:06:878 INFO  CheckOutPage :132 - Clicking on credit card radio button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: (//input[contains(@id,'paymentmethod')])[2]]
+2021-06-28 12:06:958 INFO  CheckOutPage :138 - Clicking on payment continue button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[@onclick='PaymentMethod.save()']]
+2021-06-28 12:06:48 INFO  CheckOutPage :144 - Select card MasterCard from drop down [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: CreditCardType]
+2021-06-28 12:06:211 INFO  CheckOutPage :150 - Send text Harry Potter In card holder field [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: CardholderName]
+2021-06-28 12:06:305 INFO  CheckOutPage :156 - Send text 5465222828379708 In card number field [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: CardNumber]
+2021-06-28 12:06:418 INFO  CheckOutPage :162 - Send text 01 In expire month field [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: ExpireMonth]
+2021-06-28 12:06:492 INFO  CheckOutPage :168 - Send text 2022 In expire year field 2022
+2021-06-28 12:06:598 INFO  CheckOutPage :174 - Send text 283 In card code field [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> id: CardCode]
+2021-06-28 12:06:693 INFO  CheckOutPage :180 - Clicking on payment confirmation button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[@onclick='PaymentInfo.save()']]
+2021-06-28 12:06:774 INFO  CheckOutPage :186 - Getting payment method confirmation text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[@onclick='PaymentMethod.save()']]
+2021-06-28 12:06:824 INFO  CheckOutPage :192 - Getting shipping method confirmation text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //li[@class='shipping-method']]
+2021-06-28 12:06:871 INFO  CheckOutPage :198 - Getting total price text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //span[@class='value-summary']/child::strong]
+2021-06-28 12:06:916 INFO  CheckOutPage :204 - Clicking on confirm order button [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //button[@onclick='ConfirmOrder.save()']]
+2021-06-28 12:06:14 INFO  CompletedPage :23 - Getting thank you text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //h1[text()='Thank you']]
+2021-06-28 12:06:57 INFO  CompletedPage :29 - Getting order confirmation text from [[ChromeDriver: chrome on WINDOWS (c50c1d4b88ceeb036e75ed4b67ef1ed0)] -> xpath: //strong[text()='Your order has been successfully processed!']]
+2021-06-28 12:06:155 INFO  CheckOutPage :114 - Clicking on continue button Proxy element for: DefaultElementLocator 'By.xpath: //button[@onclick='Billing.save()']'
+2021-06-28 12:06:949 INFO  BasePage :32 - Launching Chrome Browser 
+2021-06-28 12:06:271 INFO  HomePage :33 - Getting text from element : [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]Compare it with Computers
+2021-06-28 12:06:290 INFO  HomePage :37 - Clicking on element: [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //div[@class='header-menu']/ul[1]/li/a]<br>
+2021-06-28 12:06:459 INFO  ComputersPage :20 - Clicking on desktopLink[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //h2[@class='title']/a[@href='/desktops']]
+2021-06-28 12:06:988 INFO  DesktopPage :37 - Select filter A to Z from[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: products-orderby]
+2021-06-28 12:06:146 INFO  DesktopPage :49 - Clicking on Build your own computer add to cart button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //div[@data-productid='1']//div[@class='buttons']]
+2021-06-28 12:06:235 INFO  BuildYourOwnComputerPage :62 - Getting welcome text [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 12:06:299 INFO  BuildYourOwnComputerPage :68 - Select processor from drop down [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: (//select[contains(@id,'product_attribute')])[1]]
+2021-06-28 12:06:469 INFO  BuildYourOwnComputerPage :74 - Select ram from drop down: [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: (//select[contains(@id,'product_attribute')])[2]]
+2021-06-28 12:06:656 INFO  BuildYourOwnComputerPage :82 - Getting text320 GBFrom element 320 GB and compare with hdd400 GB [+$100.00]
+2021-06-28 12:06:680 INFO  BuildYourOwnComputerPage :82 - Getting text400 GB [+$100.00]From element 400 GB [+$100.00] and compare with hdd400 GB [+$100.00]
+2021-06-28 12:06:687 INFO  BuildYourOwnComputerPage :84 - Clicking on element [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: (//ul[@class='option-list'])[1]//label]
+2021-06-28 12:06:800 INFO  BuildYourOwnComputerPage :95 - Getting textVista Home [+$50.00]From element Vista Home [+$50.00] and compare with osVista Premium [+$60.00]
+2021-06-28 12:06:827 INFO  BuildYourOwnComputerPage :95 - Getting textVista Premium [+$60.00]From element Vista Premium [+$60.00] and compare with osVista Premium [+$60.00]
+2021-06-28 12:06:833 INFO  BuildYourOwnComputerPage :98 - Clicking on element [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: (//ul[@class='option-list'])[2]//label]
+2021-06-28 12:06:940 INFO  BuildYourOwnComputerPage :115 - Clicking on : [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: (//input[contains(@id,'product_attribute')])[7]]
+2021-06-28 12:06:40 INFO  BuildYourOwnComputerPage :120 - Getting price text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //span[contains(@id,'price-value')]]
+2021-06-28 12:06:114 INFO  BuildYourOwnComputerPage :126 - Clicking on add to cart button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[contains(@id,'add-to-cart-button')]]
+2021-06-28 12:06:216 INFO  BuildYourOwnComputerPage :132 - Getting popup text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2021-06-28 12:06:261 INFO  BuildYourOwnComputerPage :139 - Accept pop up close button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]
+2021-06-28 12:06:339 INFO  BuildYourOwnComputerPage :145 - Mouse hover to shopping cart link [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //span[contains(text(),'Shopping cart')]]
+2021-06-28 12:06:45 INFO  BuildYourOwnComputerPage :151 - Clicking on go to cart button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[contains(text(),'Go to cart')]]
+2021-06-28 12:06:653 INFO  CartPage :34 - Getting welcome text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //h1[contains(text(),'Shopping cart')]]
+2021-06-28 12:06:735 INFO  CartPage :40 - Change Quantity 2 On element [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //input[contains(@id,'itemquantity')]]
+2021-06-28 12:06:876 INFO  CartPage :46 - Clicking on update shopping cart [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[contains(text(),'Update shopping cart')]]
+2021-06-28 12:06:569 INFO  CartPage :52 - Getting total price text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //td[@class='subtotal']/child::span]
+2021-06-28 12:06:614 INFO  CartPage :58 - Clicking on terms of service [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: termsofservice]
+2021-06-28 12:06:723 INFO  CartPage :64 - Clicking on check out button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: checkout]
+2021-06-28 12:06:73 INFO  LoginPage :21 - Getting welcome Text[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-06-28 12:06:119 INFO  LoginPage :27 - Clicking on checkOutAsGuest button[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[@class='button-1 checkout-as-guest-button']]
+2021-06-28 12:06:66 INFO  CheckOutPage :72 - Enter firstname Harry in first field[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_FirstName]
+2021-06-28 12:06:175 INFO  CheckOutPage :77 - Enter last name Potter in last name field[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_LastName]
+2021-06-28 12:06:286 INFO  CheckOutPage :84 - Send email id harryPotterrandom number895Domain@gmail.comIn emailid field [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_Email]
+2021-06-28 12:06:396 INFO  CheckOutPage :89 - Select visible text United Kingdom In country field [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_CountryId]
+2021-06-28 12:06:555 INFO  CheckOutPage :93 - Enter city name Leicester in city field[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_City]
+2021-06-28 12:06:664 INFO  CheckOutPage :98 - Enter address75,Corporation road in address field[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_Address1]
+2021-06-28 12:06:776 INFO  CheckOutPage :103 - Enter post codeLE45NJ in postal code field[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_ZipPostalCode]
+2021-06-28 12:06:917 INFO  CheckOutPage :108 - Enter phone number07896543215 in phone number field[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: BillingNewAddress_PhoneNumber]
+2021-06-28 12:06:30 INFO  CheckOutPage :114 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[@onclick='Billing.save()']]
+2021-06-28 12:06:130 INFO  CheckOutPage :120 - Clicking on next day air delivery radio button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: (//input[contains(@id,'shippingoption')])[2]]
+2021-06-28 12:06:208 INFO  CheckOutPage :126 - Clicking on shipping continue button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[@onclick='ShippingMethod.save()']]
+2021-06-28 12:06:293 INFO  CheckOutPage :132 - Clicking on credit card radio button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: (//input[contains(@id,'paymentmethod')])[2]]
+2021-06-28 12:06:373 INFO  CheckOutPage :138 - Clicking on payment continue button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[@onclick='PaymentMethod.save()']]
+2021-06-28 12:06:453 INFO  CheckOutPage :144 - Select card MasterCard from drop down [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: CreditCardType]
+2021-06-28 12:06:607 INFO  CheckOutPage :150 - Send text Harry Potter In card holder field [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: CardholderName]
+2021-06-28 12:06:702 INFO  CheckOutPage :156 - Send text 5465222828379708 In card number field [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: CardNumber]
+2021-06-28 12:06:813 INFO  CheckOutPage :162 - Send text 01 In expire month field [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: ExpireMonth]
+2021-06-28 12:06:888 INFO  CheckOutPage :168 - Send text 2022 In expire year field 2022
+2021-06-28 12:06:994 INFO  CheckOutPage :174 - Send text 283 In card code field [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> id: CardCode]
+2021-06-28 12:06:74 INFO  CheckOutPage :180 - Clicking on payment confirmation button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[@onclick='PaymentInfo.save()']]
+2021-06-28 12:06:159 INFO  CheckOutPage :186 - Getting payment method confirmation text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[@onclick='PaymentMethod.save()']]
+2021-06-28 12:06:209 INFO  CheckOutPage :192 - Getting shipping method confirmation text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //li[@class='shipping-method']]
+2021-06-28 12:06:256 INFO  CheckOutPage :198 - Getting total price text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //span[@class='value-summary']/child::strong]
+2021-06-28 12:06:303 INFO  CheckOutPage :204 - Clicking on confirm order button [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[@onclick='ConfirmOrder.save()']]
+2021-06-28 12:06:396 INFO  CompletedPage :23 - Getting thank you text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //h1[text()='Thank you']]
+2021-06-28 12:06:440 INFO  CompletedPage :29 - Getting order confirmation text from [[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //strong[text()='Your order has been successfully processed!']]
+2021-06-28 12:06:488 INFO  CompletedPage :35 - Clicking on continue button[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //button[contains(text(),'Continue')]]
+2021-06-28 12:06:824 INFO  HomePage :58 - Getting welcome Text[[ChromeDriver: chrome on WINDOWS (3db81a4648de806d34d42cd273d94196)] -> xpath: //h2[text()='Welcome to our store']]
