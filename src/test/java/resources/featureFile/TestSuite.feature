@@ -12,6 +12,15 @@ Feature:Filter and  shopping cart Test
     And I select Z to A  value "6"filter from filter drop down
     Then I am able to see product sorted as per Z to A filter
 
+  @Smoke,@Sanity,@Regression
+  Scenario: User should able to see product asorted as per Z to A filter
+
+    Given I am on homePage
+    When  I Click on Computers tab
+    And I click on Desktop tab
+    And I select Z to A  value "6"filter from filter drop down
+    Then I am able to see product sorted as per Z to A filter
+
   @Sanity,@Regression
   Scenario: User should able to add product in shopping cart successfully
     Given I am on homePage
