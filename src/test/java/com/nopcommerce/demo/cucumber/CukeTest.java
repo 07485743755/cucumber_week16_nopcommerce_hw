@@ -28,7 +28,7 @@ public class CukeTest {
         Reporter.loadXMLConfig(reportConfigPath);
         Reporter.setSystemInfo("User Name",System.getProperty("user.name"));
         Reporter.setSystemInfo("Time Zone",System.getProperty("user.timezone"));
-        Reporter.setSystemInfo("Machine","Windows 10"+"64 bit");
+        Reporter.setSystemInfo("Machine","MAC 10"+"64 bit");
         Reporter.setSystemInfo("Selenium","3.141.59");
         Reporter.setSystemInfo("Maven","3.5.9");
         Reporter.setSystemInfo("Java version","1.8.0_121");

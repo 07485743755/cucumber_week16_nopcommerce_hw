@@ -62,6 +62,10 @@ public class CheckOutPage extends Utility {
     WebElement totalPriceText;
     @FindBy(xpath ="//button[@onclick='ConfirmOrder.save()']" )
     WebElement confirmOrderButton;
+    @FindBy(xpath ="//span[@class='value-summary']/child::strong" )
+    WebElement total2PriceText;
+    @FindBy(xpath ="//button[@onclick='ConfirmOrder.save()']" )
+    WebElement confirmO3rderButton;
 
 
 
